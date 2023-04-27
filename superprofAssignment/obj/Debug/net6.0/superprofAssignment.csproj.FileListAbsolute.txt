@@ -1,0 +1,15 @@
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\bin\Debug\net6.0\superprofAssignment.exe
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\bin\Debug\net6.0\superprofAssignment.deps.json
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\bin\Debug\net6.0\superprofAssignment.runtimeconfig.json
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\bin\Debug\net6.0\superprofAssignment.dll
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\bin\Debug\net6.0\superprofAssignment.pdb
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.csproj.AssemblyReference.cache
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.AssemblyInfoInputs.cache
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.AssemblyInfo.cs
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.csproj.CoreCompileInputs.cache
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.dll
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\refint\superprofAssignment.dll
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.pdb
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\superprofAssignment.genruntimeconfig.cache
+C:\Users\samen\OneDrive\Desktop\BCAD II\PROG6221\superprofAssignment\obj\Debug\net6.0\ref\superprofAssignment.dll
